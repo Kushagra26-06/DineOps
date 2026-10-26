@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    
+    <!-- Primary Colors - Blue -->
+    <color name="colorPrimary">#2563EB</color>
+    <color name="colorPrimaryDark">#1D4ED8</color>
+    <color name="colorPrimaryLight">#3B82F6</color>
+    
+    <!-- Secondary Colors - Green -->
+    <color name="colorSecondary">#16A34A</color>
+    <color name="colorSecondaryDark">#15803D</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Text Colors - Dark for light theme -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+    
+    <!-- Accent Colors -->
+    <color name="error">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+    <color name="success">#16A34A</color>
+    
+    <!-- Border Colors -->
+    <color name="border">#E2E8F0</color>
+    
+    <!-- Old colors for compatibility -->
+    <color name="colorAccent">#2563EB</color>
+</resources>
